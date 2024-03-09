@@ -1,0 +1,5 @@
+.header_bottom_left {
+    display: flex;
+    flex-direction: raw;
+    background-color: #ed2e2e;
+}   
