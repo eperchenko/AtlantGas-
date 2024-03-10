@@ -1,5 +1,54 @@
+.container {
+    width: 1919px;
+    display: flex;
+    font-display: auto;
+    background-color: #2d2d2d;
+}
+
+.weather_first_title {
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #f1f1f1;
+}
+.weather_second_title {
+    font-family: sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #f1f1f1;
+}
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
 .header_bottom_left {
     display: flex;
-    flex-direction: raw;
-    background-color: #ed2e2e;
-}   
+    flex-direction: column;
+}
+
+.our_slogan_title {
+    font-weight: 400px;
+    font-size: 64px;
+    line-height: 63px;
+    color: #2194ff;
+    font-family: "Russo one", Suns-serif;
+}
+
+.our_slogan_subtitle {
+    font-family: "Russo one", Suns-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28.92px;
+    color: #f1f1f1;
+}
+
+.post_scriptum {
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #f1f1f1;
+}
